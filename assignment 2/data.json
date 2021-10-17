@@ -1,0 +1,62 @@
+[
+ {
+  "First Name":"John",
+  "Last Name":"Smith",
+  "Departure Time":"10:00",
+  "Departure Location":"SOF",
+  "Arrival Time":"11:00",
+  "Arrival Location":"CIA",
+  "Seat Number":"21D",
+  "Flight Number":"SF 1231"
+ },
+ {
+  "First Name":"Marianna",
+  "Last Name":"Smith",
+  "Departure Time":"10:00",
+  "Departure Location":"SOF",
+  "Arrival Time":"11:00",
+  "Arrival Location":"CIA",
+  "Seat Number":"21E",
+  "Flight Number":"SF 1231"
+ },
+ {
+  "First Name":"Veronica",
+  "Last Name":"Mars",
+  "Departure Time":"13:45",
+  "Departure Location":"CIA",
+  "Arrival Time":"14:45",
+  "Arrival Location":"SOF",
+  "Seat Number":"43F",
+  "Flight Number":"SF 1222"
+ },
+ {
+  "First Name":"Mark",
+  "Last Name":"Thomas",
+  "Departure Time":"13:45",
+  "Departure Location":"CIA",
+  "Arrival Time":"14:45",
+  "Arrival Location":"SOF",
+  "Seat Number":"43E",
+  "Flight Number":"SF 1222"
+ },
+ {
+  "First Name":"Anthony",
+  "Last Name":"Mark",
+  "Departure Time":"20:20",
+  "Departure Location":"CTA",
+  "Arrival Time":"22:50",
+  "Arrival Location":"BVA",
+  "Seat Number":"33A",
+  "Flight Number":"SF 1988"
+ },
+ {
+  "First Name":"Bridgit",
+  "Last Name":"Smith",
+  "Departure Time":"15:55",
+  "Departure Location":"BVA",
+  "Arrival Time":"18:25",
+  "Arrival Location":"CTA",
+  "Seat Number":"2D",
+  "Flight Number":"SF 1928"
+ }
+]

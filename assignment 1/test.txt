@@ -1,0 +1,46 @@
+Test Case 1:
+    Inputs:
+        * From Sofia
+        * To Netherlands - Eindhoven
+        * Departure date 4 Nov
+        * Arrival date 6 Nov
+        * Pick the flights
+        * Continue with Value
+    Expected Results:
+        Departure date - 04
+        НОЕ
+        Arrival date - 06
+        НОЕ
+        Hour and place for takeoff (departure) - 10:20
+        Sofia
+        Hour and place for landing (departure) - 12:10
+        Eindhoven
+        Hour and place for takeoff (arrival) - 12:35
+        Eindhoven
+        Hour and place for landing (arrival) - 16:15
+        Sofia
+        Flight number (departure) - FR 6013
+        Flight number (arrival) - FR 6014
+Test Case 2:
+    Inputs:
+        * From Ireland - Dublin
+        * To France - Nice
+        * Departure date 21 Nov
+        * Arrival date 26 Nov
+        * Pick the flights
+        * Continue with Value
+    Expected Results:
+        Departure date - 21
+        НОЕ
+        Arrival date - 26
+        НОЕ
+        Hour and place for takeoff (departure) - 17:20
+        Dublin
+        Hour and place for landing (departure) - 20:55
+        Nice
+        Hour and place for takeoff (arrival) - 20:55
+        Nice
+        Hour and place for landing (arrival) - 22:35
+        Dublin
+        Flight number (departure) - FR 1958
+        Flight number (arrival) - FR 1959
